@@ -11,7 +11,7 @@ It encourages you to have:
 
 To learn what to do with ``dev-requirements.in`` file look into the `pip-tools`_.
 
-.. _pytest: https://github.com/pytest-dev/pytest
-.. _Sphinx: https://github.com/sphinx-doc/sphinx
-.. _Choose a license: http://choosealicense.com/
-.. _pip-tools: https://github.com/nvie/pip-tools
+- pytest: https://github.com/pytest-dev/pytest
+- Sphinx: https://github.com/sphinx-doc/sphinx
+- Choose a license: http://choosealicense.com/
+- pip-tools: https://github.com/nvie/pip-tools
